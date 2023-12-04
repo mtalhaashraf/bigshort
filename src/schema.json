@@ -1,0 +1,24 @@
+[
+	{
+		"type": "userIp",
+		"ip": "...."
+	},
+	{
+		"type": "externalIp",
+		"ip": "...."
+	},
+	{
+		"type": "email",
+		"email": "...."
+	},
+	{
+		"ipAddresses": [
+			{
+				"ip": ".....",
+				"status": "ban/unban"
+			}
+		]
+	}
+]
+
+
